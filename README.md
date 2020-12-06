@@ -15,4 +15,4 @@ Library of data structures and their implementations. This is for studying purpo
 
 ## References
 
-[Linked Lists] (https://www.youtube.com/watch?v=gJjPWA8wpQg)
+[Linked Lists](https://www.youtube.com/watch?v=gJjPWA8wpQg)
