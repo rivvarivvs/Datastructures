@@ -5,8 +5,8 @@ Library of data structures and their implementations. This is for studying purpo
 
 - [ ] Arrays
 - [x] Linked Lists
-- [ ] Stacks
-- [ ] Queues
+- [x] Stacks
+- [x] Queues
 - [ ] Maps
 - [ ] Hash tables
 - [ ] Graphs
