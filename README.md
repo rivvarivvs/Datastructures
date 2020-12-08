@@ -10,8 +10,7 @@ Library of data structures and their implementations. This is for studying purpo
 - [ ] Maps
 - [ ] Hash tables
 - [ ] Graphs
-- [ ] Trees
-- [ ] Binary trees and binary search trees
+- [x] Trees
 
 ## References
 
