@@ -7,10 +7,10 @@ Library of data structures and their implementations. This is for studying purpo
 - [x] Linked Lists
 - [x] Stacks
 - [x] Queues
-- [ ] Maps
-- [ ] Hash tables
-- [ ] Graphs
+- [ ] Priority Queues
+- [ ] Dictionaries
 - [x] Trees
+- [ ] Graphs
 
 ## References
 
