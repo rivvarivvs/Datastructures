@@ -3,12 +3,12 @@ Library of data structures and their implementations. This is for studying purpo
 
 ## List of data structures
 
-- [ ] Arrays
+- [x] Arrays
 - [x] Linked Lists
 - [x] Stacks
 - [x] Queues
-- [ ] Priority Queues
-- [ ] Dictionaries
+- [x] Priority Queues
+- [x] Hashtables
 - [x] Trees
 - [ ] Graphs
 
